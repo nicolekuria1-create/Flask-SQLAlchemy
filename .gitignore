@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.instance/
+.env
+.venv/
+venv/
+Pipfile.lock
+migrations/__pycache__/
+.pytest_cache/
